@@ -2,7 +2,7 @@
 
 ### Registered Nurse (3+ yrs, Ophthalmic Nursing) → Data Analyst in Training
 
-I'm a Registered Nurse based in Kaduna, Nigeria, with over 5 years of clinical experience in Ophthalmic Nursing.
+I'm a Registered Nurse based in Kaduna, Nigeria, with over 3+ years of clinical experience in Ophthalmic Nursing.
 
 I'm currently transitioning into data analytics, combining my healthcare background with technical skills in Python, SQL, Excel, Power BI, APIs, and statistical analysis to turn healthcare data into actionable insights.
 
