@@ -1,6 +1,6 @@
 # Hi, I'm Ekenedirichukwu 👋
 
-### Registered Nurse (5+ yrs, Ophthalmic Nursing) → Data Analyst in Training
+### Registered Nurse (3+ yrs, Ophthalmic Nursing) → Data Analyst in Training
 
 I'm a Registered Nurse based in Kaduna, Nigeria, with over 5 years of clinical experience in Ophthalmic Nursing.
 
