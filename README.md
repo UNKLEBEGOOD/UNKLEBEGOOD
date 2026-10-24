@@ -1,4 +1,4 @@
-# Odoh Ekenedirichukwu Johnpaul
+# Hi, I'm Odoh Ekenedirichukwu Johnpaul
 
 **Registered Nurse (3+ years, Ophthalmic Nursing) transitioning into Healthcare Data Analytics**
 
