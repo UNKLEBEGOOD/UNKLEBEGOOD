@@ -8,7 +8,7 @@
 
 ## About me
 
-I am a Registered Nurse based in Kaduna, Nigeria, with more than 3 years of clinical experience in Ophthalmic Nursing. I work with patient records every day, and that is what drew me to data.
+I am a Registered Nurse based in Nigeria, with more than 3 years of clinical experience in Ophthalmic Nursing. I work with patient records every day, and that is what drew me to data.
 
 I am moving into data analytics and building projects that turn healthcare data into clear, usable insight. I am especially interested in work where clinical knowledge and data support better decisions and better patient outcomes.
 
